@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-il78w/static/css/main.09b0ce22.chunk.css",
+    "main.js": "https://.github.io/csb-il78w/static/js/main.04ef7f23.chunk.js",
+    "runtime-main.js": "https://.github.io/csb-il78w/static/js/runtime-main.8147c471.js",
+    "static/css/2.2dca281f.chunk.css": "https://.github.io/csb-il78w/static/css/2.2dca281f.chunk.css",
+    "static/js/2.ee9f71f6.chunk.js": "https://.github.io/csb-il78w/static/js/2.ee9f71f6.chunk.js",
+    "index.html": "https://.github.io/csb-il78w/index.html",
+    "static/js/2.ee9f71f6.chunk.js.LICENSE.txt": "https://.github.io/csb-il78w/static/js/2.ee9f71f6.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "https://.github.io/csb-il78w/static/media/KaTeX_Typewriter-Regular.c5441b17.ttf",
+    "static/media/cross5.06d3dbbf.jpg": "https://.github.io/csb-il78w/static/media/cross5.06d3dbbf.jpg",
+    "static/media/cross6.9fa45661.jpg": "https://.github.io/csb-il78w/static/media/cross6.9fa45661.jpg",
+    "static/media/neighbor1.656deb2a.jpg": "https://.github.io/csb-il78w/static/media/neighbor1.656deb2a.jpg",
+    "static/media/prayer4.cdbdd61c.jpg": "https://.github.io/csb-il78w/static/media/prayer4.cdbdd61c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8147c471.js",
+    "static/css/2.2dca281f.chunk.css",
+    "static/js/2.ee9f71f6.chunk.js",
+    "static/css/main.09b0ce22.chunk.css",
+    "static/js/main.04ef7f23.chunk.js"
+  ]
+}
